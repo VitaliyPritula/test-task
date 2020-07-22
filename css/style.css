@@ -562,6 +562,9 @@ body {
   .contact::before {
     margin: 14% 5% 0 35%;
   }
+  .col-2 {
+    max-width: 100%;
+  }
   .section-container img{
     width: 260px;
   }
